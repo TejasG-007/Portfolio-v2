@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio-v2/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/Portfolio-v2/static/js/main.92c83fb0.chunk.js",
-    "main.js.map": "/Portfolio-v2/static/js/main.92c83fb0.chunk.js.map",
-    "runtime-main.js": "/Portfolio-v2/static/js/runtime-main.c9bbc3fa.js",
-    "runtime-main.js.map": "/Portfolio-v2/static/js/runtime-main.c9bbc3fa.js.map",
-    "static/js/2.6797daff.chunk.js": "/Portfolio-v2/static/js/2.6797daff.chunk.js",
-    "static/js/2.6797daff.chunk.js.map": "/Portfolio-v2/static/js/2.6797daff.chunk.js.map",
-    "static/js/3.d37099dd.chunk.js": "/Portfolio-v2/static/js/3.d37099dd.chunk.js",
-    "static/js/3.d37099dd.chunk.js.map": "/Portfolio-v2/static/js/3.d37099dd.chunk.js.map",
-    "index.html": "/Portfolio-v2/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/Portfolio-v2/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.6797daff.chunk.js.LICENSE.txt": "/Portfolio-v2/static/js/2.6797daff.chunk.js.LICENSE.txt",
-    "static/media/profilepic.2f612deb.png": "/Portfolio-v2/static/media/profilepic.2f612deb.png",
-    "static/media/tejasg.3d03136a.gif": "/Portfolio-v2/static/media/tejasg.3d03136a.gif"
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.9fdf83f1.chunk.js",
+    "main.js.map": "/static/js/main.9fdf83f1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4f93349d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4f93349d.js.map",
+    "static/js/2.dd50ec4d.chunk.js": "/static/js/2.dd50ec4d.chunk.js",
+    "static/js/2.dd50ec4d.chunk.js.map": "/static/js/2.dd50ec4d.chunk.js.map",
+    "static/js/3.d37099dd.chunk.js": "/static/js/3.d37099dd.chunk.js",
+    "static/js/3.d37099dd.chunk.js.map": "/static/js/3.d37099dd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.dd50ec4d.chunk.js.LICENSE.txt": "/static/js/2.dd50ec4d.chunk.js.LICENSE.txt",
+    "static/media/profilepic.2f612deb.png": "/static/media/profilepic.2f612deb.png",
+    "static/media/tejasg.3d03136a.gif": "/static/media/tejasg.3d03136a.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9bbc3fa.js",
-    "static/js/2.6797daff.chunk.js",
+    "static/js/runtime-main.4f93349d.js",
+    "static/js/2.dd50ec4d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.92c83fb0.chunk.js"
+    "static/js/main.9fdf83f1.chunk.js"
   ]
 }
